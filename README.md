@@ -1,28 +1,25 @@
-# Audit bounty campaign
+
+> **This document presents key information pertaining to the results and terms of the bounty program.**
+
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
 
+### Introduction
 
 
+We’d like to thank everyone who took part in our bounty program, all of you guys who helped us spread the word about MoneyToken.
 
+* The total amount of the bounty pool is 96,364,877 IMT, this is equivalent to a 0.5% supply, or 481,824 $
+* Contract address: [`0x13119e34e140097a507b07a5564bde1bc375d9e6`](https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6)
+* Payment is made in the tokens of [moneytoken.com](https://moneytoken.com/)
+* Each member's amount of bounty IMT tokens will be calculated using the following formula below:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`(Total amount of bounty campaign IMT tokens/Total amount of bounty campaign participants' stakes)*Member's stakes`
+### Infographics
 
 ![moneytoken](https://i.imgur.com/Yft0jZa.png)
 
+� _Do not give your private keys to anyone. No one from MoneyToken will ever ask you for this information_
 
 
 
