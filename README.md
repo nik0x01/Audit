@@ -1,6 +1,39 @@
 # Audit bounty campaign
 
-![moneytoken](https://i.imgur.com/agOMnp2.png)
+![Imgur](https://i.imgur.com/ARYW5mU.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![moneytoken](https://i.imgur.com/Yft0jZa.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## KYC procedure 
