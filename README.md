@@ -1,6 +1,8 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
 
+> **Analyst: cosnes, dtteam, etc. Testing: bitbollo**
+
 ***
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
@@ -40,7 +42,11 @@ A lot of work has been done that was not previously included in the task list.
 There is clear evidence that the account farming is on a professional scale, this creates an endless cycle of meaningless spam. These professional users are very good at their job. You will not see the obvious, if you do not look. They are the main cause of spam.
 * [`Red list`](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
 
-***
+Some DT members will remain incognito until the implementation of the Red Trust.
+
+ © _I do not agree to notify them ... as I can lose my advantage in dealing with it. I invited other active DT members to take care that no one trusted these accounts._
+ 
+ ***
 
 ### Visualization of rejected accounts
 
