@@ -100,7 +100,7 @@ When checking each report and checking each type of campaign, the bounty manager
 
 ***
 
-� _Quality is important. Especially when it comes to videos and articles. (A lazy guy can meanly substitute another guy by sending the same article)_
+� _Quality is important. Especially when it comes to videos and articles. (A lazy guy can meanly substitute another guy by sending the same article) More than 1500 applications were not approved_
 
 ![Blog 2](https://i.imgur.com/qPc5EJM.png)
 
