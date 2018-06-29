@@ -22,13 +22,16 @@ We’d like to thank everyone who took part in our bounty program, all of you gu
 
 � _Do not give your private keys to anyone. No one from MoneyToken will ever ask you for this information_
 
+### Red Trust
 
+There is clear evidence that the account farming is on a professional scale, this creates an endless cycle of meaningless spam. These professional users are very good at their job. You will not see the obvious, if you do not look. They are the main cause of spam.
+* [Red list](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
 
+### Visualization of rejected accounts
 
+![moneytoken](https://i.imgur.com/fIOjyHg.png)
 
-
-
-[Red Trust](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
+� All accounts, scammers and other participants who abuse the trust of `MoneyToken` will be marked `"red trust"` so that they can not join other campaigns.
 
 
 
