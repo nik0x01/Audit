@@ -1,6 +1,6 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
-
+1. [Introduction](### Introduction)
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
 
