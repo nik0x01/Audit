@@ -1,9 +1,11 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
 
-1. [Introduction](### Introduction)
+***
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
+
+***
 
 ## Introduction
 
@@ -19,25 +21,29 @@ In MoneyToken, we believe in transparency and open communication with our hunter
 * Each member's amount of bounty IMT tokens will be calculated using the following formula below:
 
 `(Total amount of bounty campaign IMT tokens/Total amount of bounty campaign participants' stakes)*Member's stakes`
+
+***
+
 ### Infographics
 
 ![moneytoken](https://i.imgur.com/Yft0jZa.png)
 
 � _Do not give your private keys to anyone. No one from MoneyToken will ever ask you for this information_
 
+***
+
 ### Red Trust
 
 There is clear evidence that the account farming is on a professional scale, this creates an endless cycle of meaningless spam. These professional users are very good at their job. You will not see the obvious, if you do not look. They are the main cause of spam.
 * [`Red list`](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
+
+***
 
 ### Visualization of rejected accounts
 
 ![moneytoken](https://i.imgur.com/fIOjyHg.png)
 
 � All accounts, scammers and other participants who abuse the trust of `MoneyToken` will be marked `"red trust"` so that they can not join other campaigns.
-
-![Bounty Filters](https://i.imgur.com/3gMKh51.png)
-
 
 ## Audit Summary
 
@@ -47,11 +53,15 @@ There are many bounty campaign, whose activities can not be analyzed in a reason
 
 `Artificial audience` is one of the reasons why projects can not generate a sustainable income. One possible solution to this problem is the use of unique filters for each section according to rules.
 
+***
+
 ### Methodology
 
 We have considered in detail all the available documentation and reports on the bounty made by the manager. Secondly, we conducted a `thorough manual review` of several thousand accounts, checking their compliance. Finally, we performed the `automatic part` of the review.
 
 When checking each report and checking each type of campaign, the bounty manager uses at least 8 filters. The audit was conducted using both `proprietary and publicly available tools`.
+
+***
 
 ### Structure
 
@@ -59,27 +69,39 @@ When checking each report and checking each type of campaign, the bounty manager
 
 `Analysis of individual sections` of the report shows a high non-compliance ratio. Then we used `logical methods` to separate the structure of the report into parts. To determine the relationship between the accounts, we took into account the `probability of crossing several events` that do not depend on each other.
 
+***
+
 ### Examples
 
 � _Twitter Filtering_
 
 ![twitter_1](https://i.imgur.com/ByCq6ED.png)
 
+***
+
 � _Visualization of twitter noise (entropy)_
 
 ![Entropy](https://i.imgur.com/9agmH81.png)
+
+***
 
 � _Unavailable content_
 
 ![Blog 1](https://i.imgur.com/WaSk9bE.png)
 
+***
+
 � _Checking the wearing of a signature_
 
 ![Sig](https://i.imgur.com/nzYTBVb.png)
 
+***
+
 � _Quality is important. Especially when it comes to videos and articles. (A lazy guy can meanly substitute another guy by sending the same article)_
 
 ![Blog 2](https://i.imgur.com/qPc5EJM.png)
+
+***
 
 � _Probability of events_
 
@@ -89,18 +111,24 @@ When checking each report and checking each type of campaign, the bounty manager
 
 ![forum 3](https://i.imgur.com/4dhuWM6.png)
 
+***
+
 � _Not enough posts_
 
 ![Sig](https://i.imgur.com/p9VCaNa.png)
+
+***
 
 � _Merit and registration_
 
 ![Forum 4](https://i.imgur.com/4MBGh5O.jpg)
 
-
+***
 
 >     Theft of someone else's content, the placement of identical materials on different media sites,
 >     duplication of rewards or a complete lack of understanding of the project are detrimental to the reputation of the company.
+
+***
 
 ### Summary of Findings
 
