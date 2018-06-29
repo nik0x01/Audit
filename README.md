@@ -14,13 +14,16 @@ We’d like to thank everyone who took part in our bounty program, all of you gu
 
 In MoneyToken, we believe in transparency and open communication with our hunter community and project proponents. Thus, we provide a detailed report on the distribution of tokens and analysis of the results.
 
-* The total amount of the bounty pool is 96,364,877 IMT, this is equivalent to a 0.5% supply, or 481,824 $
+* The total amount of the bounty pool is 97,328,526 IMT, this is equivalent to a 0.5% supply, or 486,642 $
 * You can find the detailed distribution spreadsheet [`here`](https://github.com/icobase/moneytoken/blob/master/Whitelist).
 * Contract address: [`0x13119e34e140097a507b07a5564bde1bc375d9e6`](https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6)
 * Payment is made in the tokens of [moneytoken.com](https://moneytoken.com/)
 * Each member's amount of bounty IMT tokens will be calculated using the following formula below:
 
 `(Total amount of bounty campaign IMT tokens/Total amount of bounty campaign participants' stakes)*Member's stakes`
+
+Interpreters will receive additional compensation - from the pool of the team.
+A lot of work has been done that was not previously included in the task list.
 
 ***
 
@@ -73,7 +76,7 @@ When checking each report and checking each type of campaign, the bounty manager
 
 ### Examples
 
-� _Twitter Filtering_
+� _Values for entropy_
 
 ![twitter_1](https://i.imgur.com/ByCq6ED.png)
 
@@ -147,7 +150,7 @@ Technically speaking, `"audit"` has determined the effectiveness of marketing ac
 
 Due to the progress in the development of the platform and the requirements of our new partnerships, we decided to conduct a full AML/KYC procedure. This is important for scaling and complying with the rules of jurisdictions in which we obtained financial licenses, as well as to confirm that the income of MoneyToken is not a consequence of criminal activity or sanctioned funds.
 
-In addition, это there is a better way to prevent spam, and account farming. Bots can join airdrop and bounty, but they can not pass the KYC check. Therefore, we decided to include airdrop/bounty participants in the KYC/AML process as a means of protecting ourselves (and all legitimate participants).
+In addition, this is a better way to prevent spam, and account farming. Bots can join airdrop and bounty, but they can not pass the KYC check. Therefore, we decided to include airdrop/bounty participants in the KYC/AML process as a means of protecting ourselves (and all legitimate participants).
 
 ***
 
