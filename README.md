@@ -1,10 +1,10 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
-1. [Introduction](### Introduction)
+1. [Introduction](## Introduction)
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
 
-### Introduction
+## Introduction
 
 
 We’d like to thank everyone who took part in our bounty program, all of you guys who helped us spread the word about MoneyToken.
