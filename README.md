@@ -9,8 +9,10 @@
 
 We’d like to thank everyone who took part in our bounty program, all of you guys who helped us spread the word about MoneyToken.
 
+In MoneyToken, we believe in transparency and open communication with our hunter community and project proponents. Thus, we provide a detailed report on the distribution of tokens and analysis of the results.
+
 * The total amount of the bounty pool is 96,364,877 IMT, this is equivalent to a 0.5% supply, or 481,824 $
-* You can find the detailed distribution spreadsheet [here](https://github.com/icobase/moneytoken/blob/master/Whitelist).
+* You can find the detailed distribution spreadsheet [`here`](https://github.com/icobase/moneytoken/blob/master/Whitelist).
 * Contract address: [`0x13119e34e140097a507b07a5564bde1bc375d9e6`](https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6)
 * Payment is made in the tokens of [moneytoken.com](https://moneytoken.com/)
 * Each member's amount of bounty IMT tokens will be calculated using the following formula below:
@@ -25,7 +27,7 @@ We’d like to thank everyone who took part in our bounty program, all of you gu
 ### Red Trust
 
 There is clear evidence that the account farming is on a professional scale, this creates an endless cycle of meaningless spam. These professional users are very good at their job. You will not see the obvious, if you do not look. They are the main cause of spam.
-* [Red list](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
+* [`Red list`](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
 
 ### Visualization of rejected accounts
 
@@ -33,7 +35,80 @@ There is clear evidence that the account farming is on a professional scale, thi
 
 � All accounts, scammers and other participants who abuse the trust of `MoneyToken` will be marked `"red trust"` so that they can not join other campaigns.
 
+![Bounty Filters](https://i.imgur.com/3gMKh51.png)
 
+
+## Audit Summary
+
+### Overview
+
+There are many bounty campaign, whose activities can not be analyzed in a reasonable time. This situation has become a kind of stimulus for the development and use of the `account farming`. The problem is that most companies are too busy trying to focus on their products and business problems in order to spend time on the community.
+
+`Artificial audience` is one of the reasons why projects can not generate a sustainable income. One possible solution to this problem is the use of unique filters for each section according to rules.
+
+### Methodology
+
+We have considered in detail all the available documentation and reports on the bounty made by the manager. Secondly, we conducted a `thorough manual review` of several thousand accounts, checking their compliance. Finally, we performed the `automatic part` of the review.
+
+When checking each report and checking each type of campaign, the bounty manager uses at least 8 filters. The audit was conducted using both `proprietary and publicly available tools`.
+
+### Structure
+
+![Bounty Filters](https://i.imgur.com/3gMKh51.png)
+
+`Analysis of individual sections` of the report shows a high non-compliance ratio. Then we used `logical methods` to separate the structure of the report into parts. To determine the relationship between the accounts, we took into account the `probability of crossing several events` that do not depend on each other.
+
+### Examples
+
+� _Twitter Filtering_
+
+![twitter_1](https://i.imgur.com/ByCq6ED.png)
+
+� _Visualization of twitter noise (entropy)_
+
+![Entropy](https://i.imgur.com/9agmH81.png)
+
+� _Unavailable content_
+
+![Blog 1](https://i.imgur.com/WaSk9bE.png)
+
+� _Checking the wearing of a signature_
+
+![Sig](https://i.imgur.com/nzYTBVb.png)
+
+� _Quality is important. Especially when it comes to videos and articles. (A lazy guy can meanly substitute another guy by sending the same article)_
+
+![Blog 2](https://i.imgur.com/qPc5EJM.png)
+
+� _Probability of events_
+
+![forum 1](https://i.imgur.com/roZmrsV.png)
+
+![forum 2](https://i.imgur.com/68xso6J.png)
+
+![forum 3](https://i.imgur.com/4dhuWM6.png)
+
+� _Not enough posts_
+
+![Sig](https://i.imgur.com/p9VCaNa.png)
+
+� _Merit and registration_
+
+![Forum 4](https://i.imgur.com/4MBGh5O.jpg)
+
+
+
+>     Theft of someone else's content, the placement of identical materials on different media sites,
+>     duplication of rewards or a complete lack of understanding of the project are detrimental to the reputation of the company.
+
+### Summary of Findings
+
+We prefer to build an `organic community`, so we clearly share the line between aggressive marketing and ideological advancement. Such an audience is more optimistic when making decisions.
+
+Technically speaking, `"audit"` has determined the effectiveness of marketing activities and is reduced to identifying problems in the strategy of community formation.
+
+>     Real results have allowed us to focus on those who contribute to building confidence in our products and services.
+>     Community support is important, so we minimize the risk that users take when investing in MoneyToken.
 
 
 
