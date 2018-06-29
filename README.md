@@ -10,6 +10,7 @@
 We’d like to thank everyone who took part in our bounty program, all of you guys who helped us spread the word about MoneyToken.
 
 * The total amount of the bounty pool is 96,364,877 IMT, this is equivalent to a 0.5% supply, or 481,824 $
+* You can find the detailed distribution spreadsheet [here](https://github.com/icobase/moneytoken/blob/master/Whitelist).
 * Contract address: [`0x13119e34e140097a507b07a5564bde1bc375d9e6`](https://etherscan.io/token/0x13119e34e140097a507b07a5564bde1bc375d9e6)
 * Payment is made in the tokens of [moneytoken.com](https://moneytoken.com/)
 * Each member's amount of bounty IMT tokens will be calculated using the following formula below:
@@ -27,7 +28,7 @@ We’d like to thank everyone who took part in our bounty program, all of you gu
 
 
 
-
+[Red Trust](https://github.com/icobase/moneytoken/blob/master/Red%20Trust)
 
 
 
