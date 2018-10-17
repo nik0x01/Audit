@@ -1,7 +1,7 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
 
-> **Analyst: cosnes, dtteam, etc. Testing: bitbollo**
+> **Analyst: medium.com/@itech Author **
 
 ***
 
