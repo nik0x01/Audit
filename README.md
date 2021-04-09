@@ -1,8 +1,6 @@
 
 > **This document presents key information pertaining to the results and terms of the bounty program.**
 
-> **Analyst: medium.com/@itech Author **
-
 ***
 
 ![Imgur](https://i.imgur.com/ARYW5mU.jpg)
